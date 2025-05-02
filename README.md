@@ -11,8 +11,8 @@ Estadísticas de Gobierno, Seguridad Pública y Justicia (DGEGSPJ), los cuales s
 
 ## Contenido del repositorio
 
-1. Compendio códigos IC_CNI_INEGI.RMD: archivo principal en R Markdown que contiene la sintaxis utilizada para el cálculo de los IC.
-2. Compendio códigos IC_CNI_INEGI.pdf: versión en PDF del archivo anterior, lista para entrega o difusión.
+1. `Compendio códigos IC_CNI_INEGI.RMD`: archivo principal en R Markdown que contiene la sintaxis utilizada para el cálculo de los IC.
+2. `Compendio códigos IC_CNI_INEGI.pdf`: versión en PDF del archivo anterior, lista para entrega o difusión.
 3. Carpeta `IMAGENES`: incluye las imágenes utilizadas en el documento.
 4. Carpeta `Estimaciones`: contiene los tabulados generados desde R en formato `.xlsx`.
 
